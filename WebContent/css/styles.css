@@ -1,0 +1,39 @@
+.titre{
+	text-align:center;
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: underline;
+	width: 100%;
+}
+
+.produit{
+	float:left;
+}
+
+.produit table{
+	text-align:center;
+	width:400px;
+	height:250px; 
+	border:1px black solid;
+	margin:5px;
+}
+
+.produit .nom{
+	font-size: 14px;
+	color:black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.produit .desc{
+	font-size:10px;
+}
+
+.produit .prix{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.produit img{
+	height: 150px;
+}
